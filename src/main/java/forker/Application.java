@@ -23,7 +23,6 @@ public class Application {
 
 //        String fileName = args[0];
         Application app = new Application();
-        app.run();
     }
 
     private static final String FILENAME = "content.txt";
